@@ -37,6 +37,13 @@ Between them, these features help keep users switched on and honest!
 
 Please help each other on the Support forum here on WordPress, and the author will also monitor the forums.
 
+== Screenshots ==
+
+1. Product appears with no option selected, forcing user to choose 
+2. Once clicked, your optional alert text helps confirm their decision
+3. Extra fields are added to Downloads in WordPress admin
+
+
 == Frequently Asked Questions ==
 
 = What are the system requirements? =
